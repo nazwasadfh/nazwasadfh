@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi , I'm Temitope <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Tobiasz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/nazwasadfh"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/nazwasadfh"><img src="https://readme-typing-svg.herokuapp.com?lines=Back+End+Developer;JavaScript%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 
@@ -31,11 +31,11 @@ I'm a freelance front End Developer based in Nigeria 🙏, I am passionate about
 <hr/>
 
 ## ⚡ Profile Summary
-
+<!--
 <p align="center">
 <a href="https://github.com/nazwasadfh"><img alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazwasadfh&theme=tokyonight&hide_border=true"  width="520" alt="nazwasadfh" /></a>
 <p/>
-
+-->
 <hr/>
 
 <!-- ## 🐍
@@ -53,7 +53,7 @@ I'm a freelance front End Developer based in Nigeria 🙏, I am passionate about
  <a href="https://in.linkedin.com/in/nazwasadfh-22520516b"><img width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" title='LinkedIn' alt="LinkedIn"/></a>
  <a href="https://twitter.com/patra_tee?s=11&t=tXHj7BtFcg5gYHvfdBWQtQ"><img width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" title='Twitter' alt="twitter"/></a>
   <a href="https://instagram.com/tee_patraa?igshid=YmMyMTA2M2Y="><img width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" title='Instagram' alt="Instagram"/></a>
- 
+
 </p>
 <hr/>
 <br>
