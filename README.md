@@ -1,7 +1,6 @@
 
-<h1 align="center">Hi , I'm Tobiasz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/nazwasadfh"><img src="https://readme-typing-svg.herokuapp.com?lines=Back+End+Developer;JavaScript%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/nazwasadfh"><img src="https://readme-typing-svg.herokuapp.com?lines=Back+End+Developer;arch%20|%20linux%20user;Always%20configuring%20my%20system%20untill%20it%20will%20be%so$20perfect%20and%20NASA%20contact%me%20and%20give%20me%20a%20job%&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 
