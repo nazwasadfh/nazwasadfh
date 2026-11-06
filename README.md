@@ -27,5 +27,5 @@ basic guy who loves linux
 <p align="center">
 <h2 align="center">my super stuff</h2>
 <img src="https://img.shields.io/github/stars/nazwasadfh?label=Stars" alt="stars">
-
+<img src="https://komarev.com/ghpvc/?username=nazwasadfh&color=brightgreen" alt="watching_count" />
 </p>
