@@ -1,28 +1,73 @@
-# 💫 About Me:
-im just a basic linux user
 
+<h1 align="center">Hi , I'm Temitope <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/nazwasadfh"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
+<hr/>
 
-## 🌐 Socials:
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/tobias_anime) 
+<h4 align="center">
+I'm a freelance front End Developer based in Nigeria 🙏, I am passionate about design, coding, and web technologies❤️. <br />
+ I love to create clean and dynamic user interfaces. I'd love to learn a lot network and grow as a developer while also supporting other open source projects.
+</h4>
+<br>
 
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=nazwasadfh&theme=aura&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=nazwasadfh&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nazwasadfh&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<hr/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+## 🔥 Streak Stats & Languages
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nazwasadfh&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nazwasadfh&theme=algolia" alt="nazwasadfh" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazwasadfh&theme=algolia&layout=compact" alt="nazwasadfh" /></p>
 
----
-[![](https://komarev.com/ghpvc/?username=nazwasadfh&icon=0&color=4)](https://visitcount.itsvg.in)
+<br>
+<hr/>
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/animetobiasz498) 
+## 🏆 Trophies
 
+<p align="center"> <a href="https://github.com/nazwasadfh"><img
+      src="https://github-profile-trophy.vercel.app/?username=nazwasadfh&row=1&column=3&theme=algolia" alt="nazwasadfh" /></a>  </p>
+
+<!-- algolia -->
+<br>
+<hr/>
+
+## ⚡ Profile Summary
+
+<p align="center">
+<a href="https://github.com/nazwasadfh"><img alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazwasadfh&theme=tokyonight&hide_border=true"  width="520" alt="nazwasadfh" /></a>
+<p/>
+
+<hr/>
+
+<!-- ## 🐍
+  <br>
+  <p align="center">
+  <img src="https://github.com/nazwasadfh/nazwasadfh/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
+</p>
+
+<hr/> -->
+
+## 🙋‍♀️ Let's Connect
+
+<p align="center">
+ <a href="mailto:nazwasadfhapatira@gmail.com"><img width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" title='Gmail' alt="Gmail"/></a>
+ <a href="https://in.linkedin.com/in/nazwasadfh-22520516b"><img width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" title='LinkedIn' alt="LinkedIn"/></a>
+ <a href="https://twitter.com/patra_tee?s=11&t=tXHj7BtFcg5gYHvfdBWQtQ"><img width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" title='Twitter' alt="twitter"/></a>
+  <a href="https://instagram.com/tee_patraa?igshid=YmMyMTA2M2Y="><img width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" title='Instagram' alt="Instagram"/></a>
+ 
+</p>
+<hr/>
+<br>
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<!-- retro visitor counter -->  
+<p align="center" >
+  <img src="https://profile-counter.glitch.me/nazwasadfh/count.svg" />  
+</p>
+
+----
+Credit: [nazwasadfh](https://github.com/nazwasadfh)
+
+Last Edited on: 08/24/2022
