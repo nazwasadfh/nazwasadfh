@@ -27,5 +27,5 @@ basic guy who loves linux
 <p align="center">
 <h2 align="center">my super stuff</h2>
 <img src="https://img.shields.io/github/stars/nazwasadfh?label=Stars" alt="stars">
-
+[![Star History Chart](https://api.star-history.com/svg?repos=Significant-Gravitas/AutoGPT,madushadhanushka/github-readme&type=Date)](https://www.star-history.com/#Significant-Gravitas/AutoGPT&madushadhanushka/github-readme&Date)
 </p>
