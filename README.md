@@ -30,7 +30,6 @@ I'm a freelance front End Developer based in Nigeria 🙏, I am passionate about
 <br>
 <hr/>
 
-## ⚡ Profile Summary
 <!--
 <p align="center">
 <a href="https://github.com/nazwasadfh"><img alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazwasadfh&theme=tokyonight&hide_border=true"  width="520" alt="nazwasadfh" /></a>
@@ -38,7 +37,7 @@ I'm a freelance front End Developer based in Nigeria 🙏, I am passionate about
 -->
 <hr/>
 
-<!-- ## 🐍
+<!-- ## 
   <br>
   <p align="center">
   <img src="https://github.com/nazwasadfh/nazwasadfh/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
@@ -49,7 +48,7 @@ I'm a freelance front End Developer based in Nigeria 🙏, I am passionate about
 ## 🙋‍♀️ Let's Connect
 
 <p align="center">
- <a href="mailto:nazwasadfhapatira@gmail.com"><img width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" title='Gmail' alt="Gmail"/></a>
+ <a href="mailto:213336321@proton.me"><img width="26px" src="https://github.com/nazwasadfh/nazwasadfh/logo.svg" title='Gmail' alt="Gmail"/></a>
  <a href="https://in.linkedin.com/in/nazwasadfh-22520516b"><img width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" title='LinkedIn' alt="LinkedIn"/></a>
  <a href="https://twitter.com/patra_tee?s=11&t=tXHj7BtFcg5gYHvfdBWQtQ"><img width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" title='Twitter' alt="twitter"/></a>
   <a href="https://instagram.com/tee_patraa?igshid=YmMyMTA2M2Y="><img width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" title='Instagram' alt="Instagram"/></a>
