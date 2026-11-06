@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://github.com/nazwasadfh"><img src="https://readme-typing-svg.herokuapp.com?lines=Back+End+Developer;arch%20linux%20user;Always%20configuring%20my%20system%20untill%20it%20will%20beso%20perfect%20and%20NASA%20contact%20me%20and%20give%20me%20a%20job&center=true&width=500&height=200"></a>
+  <a href="https://github.com/nazwasadfh"><img src="https://readme-typing-svg.herokuapp.com?lines=Back+End+Developer;arch%20linux%20user;Always%20configuring%20my%20system%20untill%20it%20will%20beso%20perfect%20and%20NASA%20contact%20me%20and%20give%20me%20a%20job&center=true&width=1000&height=200"></a>
 </p>
 <hr/>
 
