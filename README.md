@@ -11,13 +11,11 @@ basic guy who loves linux
 <br>
 
 <hr/>
+<div align="center">
 
-## 🔥 Streak Stats & Languages
+![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=nazwasadfh&theme=%7B%22backgroundColor%22%3A%220000%22%2C%22textColor%22%3A%22%23f3e8ff%22%2C%22accentColor%22%3A%22%23a855f7%22%2C%22borderColor%22%3A%22%237c3aed%22%2C%22waterColor%22%3A%22%23a855f7%22%2C%22streakColor%22%3A%22%237c3aed%22%7D)
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nazwasadfh&theme=algolia" alt="nazwasadfh" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazwasadfh&theme=algolia&layout=compact" alt="nazwasadfh" /></p>
-
-<br>
+</div>
 <hr/>
 
 <!-- algolia -->
