@@ -23,3 +23,9 @@ basic guy who loves linux
 <!-- algolia -->
 <br>
 <hr/>
+
+<p align="center">
+## my super stuff
+<img src="https://img.shields.io/github/stars/madushadhanushka?label=Stars" alt="stars">
+
+</p>
