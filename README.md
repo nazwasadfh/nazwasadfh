@@ -25,7 +25,7 @@ basic guy who loves linux
 <hr/>
 
 <p align="center">
-## my super stuff
+<h2 align="center">my super stuff</h2>
 <img src="https://img.shields.io/github/stars/madushadhanushka?label=Stars" alt="stars">
 
 </p>
