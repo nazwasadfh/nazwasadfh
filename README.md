@@ -16,7 +16,7 @@ basic guy who loves linux
 ![Coding Streak](https://api.gitwidgets.dev/api?username=nazwasadfh&type=streak&theme=dracula&hide_border=true&hide_username=true&animation=slide)
 ![Top Languages](https://api.gitwidgets.dev/api?username=nazwasadfh&type=languages&theme=dracula&hide_border=true&hide_username=true&animation=slide)
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=laxmena&count_private=true&show_icons=true&hide=contribs)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=nazwasadfh&count_private=true&show_icons=true&hide=contribs)
 </div>
 
 <hr/>
