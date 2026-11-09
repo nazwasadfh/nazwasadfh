@@ -13,10 +13,6 @@ basic guy who loves linux
 <div align="center">
 
 ![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=nazwasadfh&theme=%7B%22backgroundColor%22%3A%220000%22%2C%22textColor%22%3A%22%23f3e8ff%22%2C%22accentColor%22%3A%22%23a855f7%22%2C%22borderColor%22%3A%22%237c3aed%22%2C%22waterColor%22%3A%22%23a855f7%22%2C%22streakColor%22%3A%22%237c3aed%22%7D)
-![Coding Streak](https://api.gitwidgets.dev/api?username=nazwasadfh&type=streak&theme=dracula&hide_border=true&hide_username=true&animation=slide)
-![Top Languages](https://api.gitwidgets.dev/api?username=nazwasadfh&type=languages&theme=dracula&hide_border=true&hide_username=true&animation=slide)
-
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=nazwasadfh&count_private=true&show_icons=true&hide=contribs)
 </div>
 
 <hr/>
